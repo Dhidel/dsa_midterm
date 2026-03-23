@@ -1,6 +1,8 @@
 from __future__ import annotations
 
 from collections.abc import Iterable, Iterator
+from pathlib import Path
+import json
 
 
 class Node:
@@ -103,3 +105,10 @@ class LinkedList:
             )
 
         return linked_list
+
+    @classmethod
+    def from_json_file(cls, file_path: str | Path) -> LinkedList:
+        with open(file_path, "r", encoding="utf-8") as file:
+            songs: list[dict[str, str]] = json.load(file)
+
+        return cls.from_iterable(songs)

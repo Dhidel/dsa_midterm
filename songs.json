@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Diles",
+    "artist": "Bad Bunny",
+    "album": "Single"
+  },
+  {
+    "name": "Soy Peor",
+    "artist": "Bad Bunny",
+    "album": "Single"
+  },
+  {
+    "name": "Chambea",
+    "artist": "Bad Bunny",
+    "album": "Single"
+  },
+  {
+    "name": "Amorfoda",
+    "artist": "Bad Bunny",
+    "album": "Single"
+  },
+  {
+    "name": "Callaita",
+    "artist": "Bad Bunny",
+    "album": "Single"
+  },
+  {
+    "name": "Mia",
+    "artist": "Bad Bunny",
+    "album": "Single"
+  },
+  {
+    "name": "Estamos Bien",
+    "artist": "Bad Bunny",
+    "album": "X 100PRE"
+  },
+  {
+    "name": "Ni Bien Ni Mal",
+    "artist": "Bad Bunny",
+    "album": "X 100PRE"
+  },
+  {
+    "name": "La Romana",
+    "artist": "Bad Bunny",
+    "album": "X 100PRE"
+  },
+  {
+    "name": "200 MPH",
+    "artist": "Bad Bunny",
+    "album": "X 100PRE"
+  },
+  {
+    "name": "Vete",
+    "artist": "Bad Bunny",
+    "album": "YHLQMDLG"
+  },
+  {
+    "name": "Ignorantes",
+    "artist": "Bad Bunny",
+    "album": "YHLQMDLG"
+  },
+  {
+    "name": "Safaera",
+    "artist": "Bad Bunny",
+    "album": "YHLQMDLG"
+  },
+  {
+    "name": "Yo Perreo Sola",
+    "artist": "Bad Bunny",
+    "album": "YHLQMDLG"
+  },
+  {
+    "name": "Bichiyal",
+    "artist": "Bad Bunny",
+    "album": "YHLQMDLG"
+  },
+  {
+    "name": "Dakiti",
+    "artist": "Bad Bunny",
+    "album": "El Ultimo Tour Del Mundo"
+  },
+  {
+    "name": "La Noche de Anoche",
+    "artist": "Bad Bunny",
+    "album": "El Ultimo Tour Del Mundo"
+  },
+  {
+    "name": "Moscow Mule",
+    "artist": "Bad Bunny",
+    "album": "Un Verano Sin Ti"
+  },
+  {
+    "name": "Titi Me Pregunto",
+    "artist": "Bad Bunny",
+    "album": "Un Verano Sin Ti"
+  },
+  {
+    "name": "Me Porto Bonito",
+    "artist": "Bad Bunny",
+    "album": "Un Verano Sin Ti"
+  },
+  {
+    "name": "Ojitos Lindos",
+    "artist": "Bad Bunny",
+    "album": "Un Verano Sin Ti"
+  },
+  {
+    "name": "Efecto",
+    "artist": "Bad Bunny",
+    "album": "Un Verano Sin Ti"
+  },
+  {
+    "name": "Neverita",
+    "artist": "Bad Bunny",
+    "album": "Un Verano Sin Ti"
+  },
+  {
+    "name": "Andrea",
+    "artist": "Bad Bunny",
+    "album": "Un Verano Sin Ti"
+  },
+  {
+    "name": "Ensename a Bailar",
+    "artist": "Bad Bunny",
+    "album": "Un Verano Sin Ti"
+  },
+  {
+    "name": "Canguro",
+    "artist": "Wos",
+    "album": "Caravana"
+  },
+  {
+    "name": "Melon Vino",
+    "artist": "Wos",
+    "album": "Caravana"
+  },
+  {
+    "name": "Terraza",
+    "artist": "Wos",
+    "album": "Caravana"
+  },
+  {
+    "name": "Andromeda",
+    "artist": "Wos",
+    "album": "Caravana"
+  },
+  {
+    "name": "Luz Delito",
+    "artist": "Wos",
+    "album": "Luz Delito"
+  },
+  {
+    "name": "Arrancarmelo",
+    "artist": "Wos",
+    "album": "Single"
+  },
+  {
+    "name": "Que Se Mejoren",
+    "artist": "Wos",
+    "album": "Single"
+  },
+  {
+    "name": "Mugre",
+    "artist": "Wos",
+    "album": "Single"
+  },
+  {
+    "name": "Bzrp Music Sessions, Vol. 28",
+    "artist": "Wos",
+    "album": "Single"
+  },
+  {
+    "name": "Alma Dinamita",
+    "artist": "Wos",
+    "album": "Single"
+  },
+  {
+    "name": "Mamichula",
+    "artist": "Trueno",
+    "album": "Atrevido"
+  },
+  {
+    "name": "Dance Crip",
+    "artist": "Trueno",
+    "album": "Atrevido"
+  },
+  {
+    "name": "Atrevido",
+    "artist": "Trueno",
+    "album": "Atrevido"
+  },
+  {
+    "name": "Tranky Funky",
+    "artist": "Trueno",
+    "album": "Atrevido"
+  },
+  {
+    "name": "Sangria",
+    "artist": "Trueno",
+    "album": "Atrevido"
+  },
+  {
+    "name": "Salimo de Noche",
+    "artist": "Trueno",
+    "album": "Atrevido"
+  },
+  {
+    "name": "Ohh Baby",
+    "artist": "Trueno",
+    "album": "Single"
+  },
+  {
+    "name": "Feel Me?",
+    "artist": "Trueno",
+    "album": "Single"
+  },
+  {
+    "name": "Argentina",
+    "artist": "Trueno",
+    "album": "Single"
+  },
+  {
+    "name": "Panama",
+    "artist": "Trueno",
+    "album": "Single"
+  },
+  {
+    "name": "Goteo",
+    "artist": "Duki",
+    "album": "Super Sangre Joven"
+  },
+  {
+    "name": "Rockstar",
+    "artist": "Duki",
+    "album": "Super Sangre Joven"
+  },
+  {
+    "name": "Givenchy",
+    "artist": "Duki",
+    "album": "Super Sangre Joven"
+  },
+  {
+    "name": "She Don’t Give a Fo",
+    "artist": "Duki",
+    "album": "Desde El Fin Del Mundo"
+  },
+  {
+    "name": "Desde El Fin Del Mundo",
+    "artist": "Duki",
+    "album": "Desde El Fin Del Mundo"
+  },
+  {
+    "name": "Ademas de Mi",
+    "artist": "Duki",
+    "album": "Desde El Fin Del Mundo"
+  },
+  {
+    "name": "Malbec",
+    "artist": "Duki",
+    "album": "Antes de Ameri"
+  },
+  {
+    "name": "YaMeFui",
+    "artist": "Duki",
+    "album": "Antes de Ameri"
+  },
+  {
+    "name": "24",
+    "artist": "Duki",
+    "album": "Antes de Ameri"
+  },
+  {
+    "name": "Top 5",
+    "artist": "Duki",
+    "album": "Single"
+  },
+  {
+    "name": "Tu Me Dejaste De Querer",
+    "artist": "C. Tangana",
+    "album": "El Madrileno"
+  },
+  {
+    "name": "Demasiadas Mujeres",
+    "artist": "C. Tangana",
+    "album": "El Madrileno"
+  },
+  {
+    "name": "Comerte Entera",
+    "artist": "C. Tangana",
+    "album": "El Madrileno"
+  },
+  {
+    "name": "Llorando en la Limo",
+    "artist": "C. Tangana",
+    "album": "Single"
+  },
+  {
+    "name": "Ingobernable",
+    "artist": "C. Tangana",
+    "album": "El Madrileno"
+  },
+  {
+    "name": "Guerrera",
+    "artist": "C. Tangana",
+    "album": "El Madrileno"
+  },
+  {
+    "name": "Un Veneno",
+    "artist": "C. Tangana",
+    "album": "El Madrileno"
+  },
+  {
+    "name": "Nominao",
+    "artist": "C. Tangana",
+    "album": "El Madrileno"
+  },
+  {
+    "name": "Mala Mujer",
+    "artist": "C. Tangana",
+    "album": "Single"
+  },
+  {
+    "name": "Ateo",
+    "artist": "C. Tangana",
+    "album": "Single"
+  },
+  {
+    "name": "Hoke Tema 01",
+    "artist": "Hoke",
+    "album": "Single"
+  },
+  {
+    "name": "Hoke Tema 02",
+    "artist": "Hoke",
+    "album": "Single"
+  },
+  {
+    "name": "Hoke Tema 03",
+    "artist": "Hoke",
+    "album": "Single"
+  },
+  {
+    "name": "Hoke Tema 04",
+    "artist": "Hoke",
+    "album": "Single"
+  },
+  {
+    "name": "Hoke Tema 05",
+    "artist": "Hoke",
+    "album": "Single"
+  },
+  {
+    "name": "HUMBLE.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN."
+  },
+  {
+    "name": "DNA.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN."
+  },
+  {
+    "name": "PRIDE.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN."
+  },
+  {
+    "name": "LOVE.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN."
+  },
+  {
+    "name": "ELEMENT.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN."
+  },
+  {
+    "name": "N95",
+    "artist": "Kendrick Lamar",
+    "album": "Mr. Morale & the Big Steppers"
+  },
+  {
+    "name": "United in Grief",
+    "artist": "Kendrick Lamar",
+    "album": "Mr. Morale & the Big Steppers"
+  },
+  {
+    "name": "Father Time",
+    "artist": "Kendrick Lamar",
+    "album": "Mr. Morale & the Big Steppers"
+  },
+  {
+    "name": "Count Me Out",
+    "artist": "Kendrick Lamar",
+    "album": "Mr. Morale & the Big Steppers"
+  },
+  {
+    "name": "The Heart Part 5",
+    "artist": "Kendrick Lamar",
+    "album": "Single"
+  },
+  {
+    "name": "Stronger",
+    "artist": "Kanye West",
+    "album": "Graduation"
+  },
+  {
+    "name": "Flashing Lights",
+    "artist": "Kanye West",
+    "album": "Graduation"
+  },
+  {
+    "name": "Good Life",
+    "artist": "Kanye West",
+    "album": "Graduation"
+  },
+  {
+    "name": "Heartless",
+    "artist": "Kanye West",
+    "album": "808s & Heartbreak"
+  },
+  {
+    "name": "Love Lockdown",
+    "artist": "Kanye West",
+    "album": "808s & Heartbreak"
+  },
+  {
+    "name": "Runaway",
+    "artist": "Kanye West",
+    "album": "My Beautiful Dark Twisted Fantasy"
+  },
+  {
+    "name": "Power",
+    "artist": "Kanye West",
+    "album": "My Beautiful Dark Twisted Fantasy"
+  },
+  {
+    "name": "Monster",
+    "artist": "Kanye West",
+    "album": "My Beautiful Dark Twisted Fantasy"
+  },
+  {
+    "name": "All of the Lights",
+    "artist": "Kanye West",
+    "album": "My Beautiful Dark Twisted Fantasy"
+  },
+  {
+    "name": "Gold Digger",
+    "artist": "Kanye West",
+    "album": "Late Registration"
+  },
+  {
+    "name": "Un Peso",
+    "artist": "Bad Bunny",
+    "album": "YHLQMDLG"
+  },
+  {
+    "name": "La Cancion",
+    "artist": "Bad Bunny",
+    "album": "Oasis"
+  },
+  {
+    "name": "La Zona",
+    "artist": "Bad Bunny",
+    "album": "X 100PRE"
+  },
+  {
+    "name": "Si Veo a Tu Mama",
+    "artist": "Bad Bunny",
+    "album": "YHLQMDLG"
+  },
+  {
+    "name": "Que Pretendes",
+    "artist": "Bad Bunny",
+    "album": "Oasis"
+  },
+  {
+    "name": "Alright",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp a Butterfly"
+  },
+  {
+    "name": "King Kunta",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp a Butterfly"
+  },
+  {
+    "name": "Money Trees",
+    "artist": "Kendrick Lamar",
+    "album": "good kid, m.A.A.d city"
+  },
+  {
+    "name": "Backseat Freestyle",
+    "artist": "Kendrick Lamar",
+    "album": "good kid, m.A.A.d city"
+  },
+  {
+    "name": "Bitch, Dont Kill My Vibe",
+    "artist": "Kendrick Lamar",
+    "album": "good kid, m.A.A.d city"
+  }
+]
